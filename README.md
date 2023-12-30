@@ -4,4 +4,4 @@ we will learn the main concept of GitHub
 
 # Who am i?
 
-My name is Ebraam
+My name is Ebraam ibrahim
